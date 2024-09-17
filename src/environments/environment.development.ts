@@ -1,3 +1,3 @@
 export const environment = {
-  wsSockets: 'https://server-socket-production-3658.up.railway.app',
+  wsSockets: 'https://cliente-socket1-s45y.vercel.app',
 };
